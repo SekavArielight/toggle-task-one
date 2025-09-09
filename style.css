@@ -4,8 +4,20 @@ h1 {
   text-decoration: underline;
 }
 
+h1 {
+  color: purple;
+}
+
 p {
   background-color: black;
   color: whitesmoke;
   font-size: 25px;
+}
+
+/* .heading {
+  color: brown;
+} */
+
+#sub-heading {
+  color: #1610cc;
 }
